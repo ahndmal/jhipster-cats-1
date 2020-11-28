@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.anma.jhip"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipcats1",
+    "packageName": "com.anma.jhip",
+    "packageFolder": "com/anma/jhip",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODE4ODcwZDg3MTM4NWUxYmM3YzEyNWI3Y2Q5ZDg2ZjBmNjRhMDZhYjM2NGIzNzcxMjA2YzA4NWQ2YjRmODFmZTRiYTI2NTNlMTY2YzM3YzBmYzQ0ODQwOGRkODNlYWExNzlkN2UwYzZmMjA5YmQ4ZTVlOWRiNzQwMmUzMzUzNTI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1606548728800,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
